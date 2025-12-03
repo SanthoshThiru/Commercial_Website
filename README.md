@@ -51,7 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -327,7 +327,7 @@ body {
 
 ```
 ## style.css
-```
+```css
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
